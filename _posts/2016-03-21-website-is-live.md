@@ -1,13 +1,13 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-21T19:34:37.395Z'
+datePublished: '2016-03-21T19:35:59.017Z'
 publisher:
   name: ''
   domain: ''
 title: 'Website is Live!'
-dateModified: '2016-03-19T18:45:39.536Z'
-starred: false
+dateModified: '2016-03-21T19:35:47.500Z'
+starred: true
 sourcePath: _posts/2016-03-21-website-is-live.md
 published: true
 inFeed: true
