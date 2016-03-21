@@ -1,3 +1,7 @@
+name: Shattered Oak
+favicon: null
+layout_spectrum: 0.4193548
+typography_spectrum: 0.6953405
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6953405
+title: Shattered Oak Brewing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3978495
-  brandStrength: 1
-  rhythmicContrast: 0.374552
   brandColors:
     - '#181C28'
     - '#FFEEE0'
     - '#AD75BD'
     - '#915B31'
     - '#C7C691'
+  brandStrength: 1
   lightness: 0.8315412
-layout_spectrum: 0.4193548
-name: Shattered Oak
+  saturation: 0.3978495
+  rhythmicContrast: 0.374552
+purpose: []
