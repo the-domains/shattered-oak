@@ -6,13 +6,13 @@ isBasedOnUrl: 'http://www.neighbordudes.com/'
 inLanguage: null
 starred: false
 keywords: []
-description: 'Tap Takeover March 31, 2016 at Neighbor Dudes Tap House in Wilsonville!'
-datePublished: '2016-03-22T01:12:20.543Z'
-dateModified: '2016-03-22T01:12:12.681Z'
+description: ''
+datePublished: '2016-03-22T01:12:55.450Z'
+dateModified: '2016-03-22T01:12:43.008Z'
 author: []
 related: []
 app_links: []
-title: Neighbor Dudes - Tap House
+title: 'Tap Takeover March 31, 2016 at Neighbor Dudes Tap House in Wilsonville!'
 sourcePath: _posts/2016-03-22-neighbor-dudes-tap-house.md
 published: true
 authors: []
