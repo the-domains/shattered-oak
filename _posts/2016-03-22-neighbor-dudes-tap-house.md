@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tap Takeover March 31, 2016 at Neighbor Dudes Tap House in Wilsonville!'
-datePublished: '2016-03-22T00:15:16.566Z'
-dateModified: '2016-03-22T00:15:16.056Z'
+datePublished: '2016-03-22T01:12:20.543Z'
+dateModified: '2016-03-22T01:12:12.681Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Tap Takeover March 31, 2016 at Neighbor Dudes Tap House in Wilsonville!
-
 <article style=""><h1>Neighbor Dudes - Tap House</h1><p>At Neighbor Dudes, sit down and enjoy one of our 30 taps, or take a growler to-go. We are dedicated to bringing you a great experience at every location.</p><img src="http://www.neighbordudes.com/uploads/2/3/1/9/23199510/114838.jpg" /></article>
