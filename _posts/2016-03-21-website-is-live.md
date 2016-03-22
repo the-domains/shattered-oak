@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-22T01:21:58.676Z'
-dateModified: '2016-03-22T01:20:06.342Z'
+datePublished: '2016-03-22T01:23:34.945Z'
+dateModified: '2016-03-22T01:23:28.463Z'
 author: []
 title: 'The New Website is Live!'
 sourcePath: _posts/2016-03-21-website-is-live.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/456f3e9d-88a9-4cc3-9e7d-ad4ff18df549.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/78ca447664d714bfbe5669b934e04a0523d432f3.jpg)
 
 # The New Website is Live!
 
