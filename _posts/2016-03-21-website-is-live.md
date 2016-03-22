@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-22T01:18:24.102Z'
-dateModified: '2016-03-22T01:18:20.962Z'
+datePublished: '2016-03-22T01:19:56.434Z'
+dateModified: '2016-03-22T01:19:52.862Z'
 author: []
 title: 'The New Website is Live!'
 sourcePath: _posts/2016-03-21-website-is-live.md
@@ -26,3 +26,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/456f3e9d-88a9-4cc3-9e7d-ad4ff18df549.jpg)
 
 # The New Website is Live!
+
+Welcome to Shattered Oak Brewing! 
+
+We are a small brewery located in Oregon City, Oregon dedicated to making great craft beer.
