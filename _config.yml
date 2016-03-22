@@ -1,5 +1,8 @@
+name: Shattered Oak
+favicon: null
+layout_spectrum: 0.4193548
+typography_spectrum: 0.6953405
 title: Shattered Oak Brewing
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 1
-  lightness: 0
   brandColors:
     - '#181C28'
     - '#FFEEE0'
     - '#AD75BD'
     - '#915B31'
     - '#C7C691'
-  rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Shattered Oak
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6953405
-layout_spectrum: 0.4193548
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
