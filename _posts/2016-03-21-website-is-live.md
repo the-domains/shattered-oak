@@ -1,22 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:6ca29f05-7099-42af-b150-76cea3540662'
+inLanguage: null
+starred: true
+keywords: []
 description: ''
+datePublished: '2016-03-22T00:15:23.167Z'
+dateModified: '2016-03-22T00:15:22.665Z'
 author: []
-datePublished: '2016-03-21T19:35:59.017Z'
+title: 'The New Website is Live!'
+sourcePath: _posts/2016-03-21-website-is-live.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
-title: 'Website is Live!'
-dateModified: '2016-03-21T19:35:47.500Z'
-starred: true
-sourcePath: _posts/2016-03-21-website-is-live.md
-published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: website-is-live/index.html
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Website is Live!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a4885e6-2944-4055-86a6-8904219abe14.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/456f3e9d-88a9-4cc3-9e7d-ad4ff18df549.jpg)
+
+# The New Website is Live!
