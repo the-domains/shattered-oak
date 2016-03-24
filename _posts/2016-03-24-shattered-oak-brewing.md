@@ -17,8 +17,8 @@ keywords:
   - drinking
   - british
 description: 'Shattered Oak Brewing from Oregon City, OR on Untappd. Complete with Beers, Ratings, Reviews, Suggestions and more!'
-datePublished: '2016-03-24T02:28:15.603Z'
-dateModified: '2016-03-24T02:28:07.818Z'
+datePublished: '2016-03-24T02:28:37.752Z'
+dateModified: '2016-03-24T02:28:30.762Z'
 author: []
 related: []
 app_links: []
